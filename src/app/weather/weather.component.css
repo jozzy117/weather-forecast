@@ -1,0 +1,12 @@
+.mat-button {
+    background: #1528ff;
+    border-color: #1528ff;
+    color: #fff !important;
+    border-radius: 8px;
+    font-size: 1em;
+    word-break: break-word;
+    box-sizing: border-box;
+}
+.cont {
+    padding: 5px;
+}

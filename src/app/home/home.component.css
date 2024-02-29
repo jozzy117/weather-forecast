@@ -1,0 +1,30 @@
+mat-list {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    border-radius: 8px;
+}
+  
+mat-icon {
+    margin-right: 8px;
+}
+  
+a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    margin: 8px 0;
+    cursor: pointer !important;
+}
+  
+a:hover {
+    background-color: #f0f0f0;
+}
+  
+h2 {
+    text-align: center;
+    color: #3f51b5;
+}
+  
